@@ -1,0 +1,12 @@
+table, th, td{
+    border: 1px solid rgb(207, 57, 57);
+    }
+h2{
+    background-color: aquamarine
+}
+body{
+    background-image: url("IMG_20181129_204959.jpg"); 
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 1000px 1000px;
+}
