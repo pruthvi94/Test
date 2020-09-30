@@ -1,5 +1,8 @@
-[
-  {"id":1,"name":"Pruthvi"},
-  {"id":2,"name":"Vijeth"},
-  {"id":3,"name":"Dinesh"}
-]
+{
+  "data"
+  [
+    {"id":1,"name":"Pruthvi"},
+    {"id":2,"name":"Vijeth"},
+    {"id":3,"name":"Dinesh"}
+  ]
+}
