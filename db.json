@@ -1,9 +1,9 @@
 {
   "data":
   [
-    {"id":1,"name":"Pruthvi","phone":"","email":""},
-    {"id":2,"name":"Vijeth","phone":"","email":""},
-    {"id":3,"name":"Dinesh","phone":"","email":""}
+    {"id":1,"name":"Pruthvi","phone":"00","email":"abc"},
+    {"id":2,"name":"Vijeth","phone":"00","email":"abc"},
+    {"id":3,"name":"Dinesh","phone":"00","email":"abc"}
   ],
    "profile": {
     "name": "pruthvi94"
