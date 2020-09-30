@@ -4,5 +4,8 @@
     {"id":1,"name":"Pruthvi"},
     {"id":2,"name":"Vijeth"},
     {"id":3,"name":"Dinesh"}
-  ]
+  ],
+   "profile": {
+    "name": "pruthvi94"
+  }
 }
